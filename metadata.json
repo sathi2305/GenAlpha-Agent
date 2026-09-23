@@ -1,0 +1,6 @@
+{
+  "name": "Genalpha AI - Multi-Model Intelligent Agent Platform",
+  "description": "Genalpha is an intelligent AI agent platform supporting ChatGPT, Gemini, and Claude engines with specialized persona routing, tools, RAG search, and voice mode.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
